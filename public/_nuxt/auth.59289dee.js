@@ -1,0 +1,1 @@
+import{H as r,I as a}from"./entry.0e2e8ba9.js";import{u as o}from"./store.a524df98.js";const u=r(e=>{const t=o();if(e.path.includes("/dashboard")&&!t.checkJwt())return a("/login");if((e.path==="/login"||e.path==="/register")&&t.checkJwt())return a("/dashboard")});export{u as default};

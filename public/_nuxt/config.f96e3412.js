@@ -1,0 +1,1 @@
+import{a9 as t,aa as o,B as i,Y as n}from"./entry.0e2e8ba9.js";const s=t({name:"SpotPlus",description:"Upgrade your spotify with on-the-go.",social:{discord:"https://discord.gg/upgrade",twitter:"https://twitter.com/upgrade"}}),a={},e=o(s,a);function f(){const p=n();return p._appConfig||(p._appConfig=i(e)),p._appConfig}export{f as u};
